@@ -1,1 +1,79 @@
-# cryptoclub
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Crypto100Club Links</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: linear-gradient(135deg, #0d0d0d, #1a1a1a);
+      color: white;
+      text-align: center;
+      padding: 40px 20px;
+    }
+    .container {
+      max-width: 500px;
+      margin: auto;
+    }
+    .avatar {
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+      border: 3px solid #00ff99;
+      margin-bottom: 20px;
+    }
+    h1 {
+      font-size: 28px;
+      margin-bottom: 10px;
+      color: #00ffcc;
+    }
+    p {
+      margin-bottom: 30px;
+      font-size: 16px;
+      color: #cccccc;
+    }
+    .link {
+      display: block;
+      margin: 12px 0;
+      padding: 15px;
+      background: #222;
+      border-radius: 8px;
+      text-decoration: none;
+      color: white;
+      font-weight: bold;
+      transition: 0.3s;
+      border: 1px solid #00ffcc;
+    }
+    .link:hover {
+      background: #00ffcc;
+      color: #111;
+    }
+    footer {
+      margin-top: 40px;
+      font-size: 13px;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img src="https://i.ibb.co/zQf9L5m/crypto-logo.png" alt="Crypto Logo" class="avatar">
+    <h1>Crypto100Club</h1>
+    <p>🚀 Your gateway to crypto exchanges, signals & community</p>
+
+    <!-- Links -->
+    <a href="https://my.okx.com/join/40612177" class="link">🔥 Join OKX Exchange</a>
+    <a href="https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00FZEITH70" class="link">🔥 Join Binance Exchange</a>
+    <a href="https://www.bybit.com/invite?ref=3KX81X" class="link">🔥 Join Bybit Exchange</a>
+    <a href="https://www.gate.com/signup/VLRAU1WLUG?ref_type=103" class="link">🔥 Join Gate.io Exchange</a>
+
+    <a href="https://t.me/btcza100" class="link">📢 Join Telegram Channel</a>
+    <a href="https://www.tiktok.com/@crypto100club" class="link">🎥 Follow TikTok</a>
+
+    <footer>
+      © 2025 Crypto100Club | All rights reserved
+    </footer>
+  </div>
+</body>
+</html>
